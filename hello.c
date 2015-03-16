@@ -8,6 +8,6 @@
 #include<stdio.h>
 int main(int argc,char**argv)
 {
-
+	printf("fuck you!\n"); 
 	return 0;
 }

@@ -8,6 +8,7 @@
 #include<stdio.h>
 int main(int argc,char**argv)
 {
+	print("i love you baby.\n");
 	print("fuck you beach.!\n");
 	printf("fuck you!\n"); 
 	return 0;
